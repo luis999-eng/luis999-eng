@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, Welcome to Luis' GitHub
 
-<!--
-**luis999-eng/luis999-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm on my way to becoming a developer with a passion for innovation and how emerging technologies can shape a better future. I love exploring new tools, building meaningful projects, and sharing knowledge with the community.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:**  Python, SQL 
+- **Tools:** Git, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis999-eng&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/luis-curiel-rojas-4368ab107)
+- [Portfolio](https://github.com/luis999-eng?tab=repositories)
+
+---
